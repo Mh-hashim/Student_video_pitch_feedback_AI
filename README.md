@@ -1,0 +1,1 @@
+This project is a comprehensive video feedback system specially built for student pitch presentation feedback automation. System uses opencv, nlp techniques, statistical analysis and audio pitch extraction techniques ti assess students confidence level.
